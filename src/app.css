@@ -1,0 +1,19 @@
+@tailwind preflight;
+
+a {
+  @apply .no-underline;
+  @apply .text-grey-light;
+  @apply .font-semibold;
+}
+
+a:hover {
+  @apply .underline;
+  @apply .text-white
+}
+
+header {
+  background: url('./assets/hero.jpg');
+  height: 37.5rem;
+}
+
+@tailwind utilities;
