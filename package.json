@@ -1,7 +1,7 @@
 {
-  "name": "parcel-tailwind",
+  "name": "tryshift.com-tailwind",
   "version": "0.0.1",
-  "description": "Laravel.io-Tailwindcss",
+  "description": "tryshift.com-tailwind",
   "author": "zulfadhli <zulfadhli4141@gmail.com>",
   "license": "MIT",
   "scripts": {
